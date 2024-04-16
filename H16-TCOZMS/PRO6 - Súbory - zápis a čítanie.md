@@ -3,7 +3,7 @@ share: "true"
 ---
 
 1. Princíp fungovania vstupno výstupného súborového systému
-	1. 
+	1. toto nam nikto neopisal nikdy
 2. Metódy a objekty použivané pri súborových vstupno/výstupných operáciach
 
 ```cpp
@@ -76,7 +76,7 @@ class Program
 		- textové súbory sú určené na ukladanie textových znakov pomocou viacerých formátov alebo kodóvaní
 		- najčastejšie sa využíva UTF-8
 4. Spôsoby zapisovania a načítania súborov
-	1. 
+	1. toto chce akoze co, lebo funkcie a metody som opisal hore?
 5. Spôsoby ako zistiť informácie o súboroch
 6. Serializácia a deserializácia
 	1. Serializácia je jav, pri ktorom sa stav objektu aj s údajmi konvertuje (serializuje) do prenosného formátu
