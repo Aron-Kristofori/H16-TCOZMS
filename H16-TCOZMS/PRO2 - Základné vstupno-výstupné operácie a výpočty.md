@@ -24,11 +24,12 @@ Console.ReadKey();    // Čaká na stlačenie klávesy
 Console.Read();       // Vráti Unicode hodnotu prvého znaku z prúdu vstupu
 ```
 
-### Ako sú realizované V/V v prípade grafických rozhraní
+### Ako sú realizované V/V operácie v prípade grafických rozhraní
 
 Vstupné a výstupné operácie sprostredkúvajú volania metód a úpravu parametrov objektu grafického rozhrania, ktorý sa inicializuje pri spustení programu. Tieto operácie môžu zahŕňať zobrazovanie textu, tlačidiel, políčok na zadávanie textu a iných interaktívnych prvkov.
 
 ### Popíšte premenné
+
 Premenné reprezentujú úložisko v operačnej pamäti. Každá premenná má typ, ktorý rozhoduje aké hodnoty sa môžú v nej ukladať. Hodnota premennej sa dá zmeniť cez operátor priradenia.
 ### Operator priradenia
 
