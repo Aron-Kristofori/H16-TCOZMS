@@ -3,11 +3,11 @@ share: "true"
 ---
 
 ### Vysvetlite a popíšte, akú právnu formu podniku v SR môže mať výrobca alebo predajca číslicovej techniky
-- dva formy: živnosť a SRO
+- dve formy: živnosť a SRO
 #### Živnosť
 - sústavná činnosť, ktorá sa uskutočňuje samostatne, vo vlastnom mene a na vlastnú zodpovednosť
-- upravuje Živnostenský zákom (Č. 455/1991)
-- vykonávať živnosť môžu fyzické aj právnické osoby, ak splni podmienky
+- upravuje Živnostenský zákon (Č. 455/1991)
+- vykonávať živnosť môžu fyzické aj právnické osoby, ak splnia podmienky
 - **Podmienky prevádzkovania živnosti**: 
 	- dosiahnutie veku 18 rokov
 	- spôsobilosť na právne úkony
@@ -61,7 +61,15 @@ share: "true"
 ### Charakterizujte daňovú sústavu, druhy daní a vysvetlite vzťah medzi štátnym rozpoćotom a daňami
 
 ### Uveďte výhody a nevýhody jednotlivých zdrojov, metód získavania nových zamestnancov a popíśte základné náležitosti pracovnej zmluvy
-
+- činnosť zameraná na zísaknie vhodných uchádzačov o voľné pracovné miesto
+- zdroje získavania zamestnancov: *externé a interné*
+- **externé zdroje** - uchádzači z vonkajšieho prostredia
+- **interné zdroje** - vlastný zamestnanci podniku, ktorí môžu postúpiť na voľné pracovné miesto
+- **metódy získavania zamestnancov**
+	- inzercia
+	- internet
+	- sprostredkovateľské a personálne agentúry
+	- vlastná databáza
 ### Uveďte základné marketingové nástroje, stratégie využívané v podniku a znázornite životný cyklys výrobku
 
 ### Popíšte rôzne formy platobného styku
@@ -75,6 +83,16 @@ share: "true"
 ### Charakterizujte trh, trhové subjekty, a trhový mechanizmus, ktorý vzniká na trhu
 
 ### Zhodnoťte dôsledky cyklického vývoja ekonomiky (inflácia, nezamestnanosť)
+- ekonomika sa vyvíja cyklicky
+- vývoj ekomoniky, ktorý prebieh v podoboe opakujúcich sa výkyvov, nazývame cyklickým a jeho jednotlivej vlne, ktorá v sebe zahŕňa rozmach a pokles ekonomickej výkonnosti hovoríme ekonomický (hospodársky) cyklus
+- hospodársky cyklus má štyri fázy:
+	1. **Recesia** - klesajúca ekonomická aktivita, produkt sa znižuje, v ekonomike je veľmi málo istoty, znižovanie výroby
+	2. **Dno** - bod keď je reálny produkt minimálny, najnižšia úroveň reálneho HDP, úroveň výroby aj dopytu je nízka, nezamestnanosť je vysoká
+	3. **Expanzia** - rozmach, ekonomika sa rozvíja, skutočný produkt rastie, v ekonomike prevláda dôvera a optimizmus, výroba a odbyt narastajú, nezamestnanosť klesá
+	4. **Vrchol** - bod, keď reálny produkt dosahuje maximum, najvyššia úroveň reálneho HDP, plná zamestnanosť, ceny sú vysoké
+- dôsledky:
+	- inflácia - peňažný jav, znamená nadmernú emisiu peňazí do obehu. znehodnocovanie peňazí
+	- nezamestnanosť - sociálno-ekonomický jav, ktorý vzniká vtedy, ak je na trhu práce skupina nezamestnaných, ktorí hľadajú prácu
 
 ### Vysvetlite hlavné úlohy personálneho manažmentu v podniku
 
@@ -97,3 +115,12 @@ share: "true"
 ### Vysvetlite aká konkurencia vzniká na trhu
 
 ### Charakterizujte ukazovatele celkovej úrvone bohatstva krajiny
+- národné hospodárstvo predstavuje zložítý systém subjektov a vzťahod medzi nimi
+#### Meranie výkonnosti národného hospodárstva
+- **HDP** - hrubý domestický produkt
+	- celková hodnota finálnych výrobkov a služieb, ktoré boli vytvorené výrobnými faktormi na území určitého štátu za jeden rok.
+- **HNP** - hrubý narodný produkt
+	- celkové množstvo vyrobených konečných výrobkov a poskytnutých služieb, ktoré vytvorili výrobné faktory občanov určitého štátu za jeden rok
+- **ND** - národný dôchodok
+	- celkový dôchodok, ktorý získali vlastníci výrobných faktorovo.
+	- súhrn všetkých dôchodkov, ktoré plynú z využívania výrobných faktorov za jeden rok
