@@ -45,6 +45,13 @@ share: "true"
 	- CSMA-CA - collision avoidance - bezdrôtové siete
 # C
 1. popíšte MAC tabuľku
-	- 
-2. popíšte manažovanie switchu na L2
-	- virtuálne rozhrania
+	- tabuľka MAC adries, priradená k portom na switchi
+	- switch robí prepínacie rozhodnutia na základe tejto tabuľky
+	- napr. pri cut-through switching, switch si načíta rámec po deštinačnú MAC adresu a začne ho prepínať na port
+	- naplnenie MAC tabuľky sa deje keď príde rámec na port a zapíše sa jeho source adresa
+	- ak swtich nemá v MAC tabuľke deštinačnú adresu rámca tak rámec daľej posiela na každý port okrem toho, na ktorom ho dostal
+1. popíšte manažovanie switchu na L2
+	- zabezpečenie vzdialeného prístupu cez SSH
+	- autentifikácia užívateľov cez lokálny účet alebo AAA
+	- pripojenie na swtich cez virutálne rozhranie (int vlan x)
+	- zaheslovanie konzolového a EXEC mód prístupu
