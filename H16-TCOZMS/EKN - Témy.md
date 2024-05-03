@@ -73,6 +73,7 @@ share: "true"
 ### Uveďte základné marketingové nástroje, stratégie využívané v podniku a znázornite životný cyklys výrobku
 
 ### Popíšte rôzne formy platobného styku
+- elektronické bankovníctvo predstavuje moderné formy platobného styku
 
 ### Popíšte druhy živností a uveďte všetky podmienky nevyhnutné pre ich prevádzkovanie
 
@@ -104,7 +105,7 @@ share: "true"
 
 ### Vysvetlite aké sú základné ekonomické voľby, ktorým čelí každá spoločnosť
 
-###  Charakterizujte banku a základné bankové operácie
+### Charakterizujte banku a základné bankové operácie
 
 ### Popíšte aké náklady, výnosy a výsledok hospodárenia vznikajú podniku
 
