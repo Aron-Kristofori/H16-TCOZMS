@@ -83,8 +83,9 @@ class Program
 		- textové súbory sú určené na ukladanie textových znakov pomocou viacerých formátov alebo kodóvaní
 		- najčastejšie sa využíva UTF-8
 4. Spôsoby zapisovania a načítania súborov
-	1. toto chce akoze co, lebo funkcie a metody som opisal hore?
+	1. neviem
 5. Spôsoby ako zistiť informácie o súboroch
+	1. neviem
 6. Serializácia a deserializácia
 	-  Serializácia je jav, pri ktorom sa stav objektu aj s údajmi konvertuje (serializuje) do prenosného formátu
 	- Deserializácia je opak, serializovaný objekt sa načítáva z úložiska 
