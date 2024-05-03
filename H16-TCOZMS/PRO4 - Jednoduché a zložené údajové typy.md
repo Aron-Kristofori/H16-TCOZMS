@@ -6,7 +6,7 @@ share: "true"
 
 - **Celé číslo (int)**: Reprezentuje celé čísla bez desatinných miest. V jazykoch ako C++ alebo Java má obvykle veľkosť 4 bajty.
 - **Desatinné číslo (float/double)**: Používa sa na reprezentáciu čísel s desatinnou čiarkou. Typ `float` má menšiu presnosť ako `double`, ale zaberá menej pamäte.
-- **Reťazec (string)**: Zložený zo znakov, používa sa na uchovávanie textových dát. Reťazce môžu byť modifikovateľné alebo nemodifikovateľné v závislosti od programovacieho jazyka.
+- **Reťazec (string)**: Zložený zo znakov, používa sa na uchovávanie textových dát. Reťazce môžu byť modifikovateľné alebo nemodifikovateľné v závislosti od programovacieho jazyka. string nie je jednoduchy datovy typ TODO
 - **Logická hodnota (bool)**: Predstavuje logické hodnoty `true` a `false`, používa sa na vyjadrenie stavu pravda/nepravda.
 - **Znak (char)**: Reprezentuje jeden znak v Unicode. V C++ a podobných jazykoch je veľkosť charu obvykle 1 bajt.
 
@@ -37,7 +37,7 @@ share: "true"
 
 - **Klasické pole**:
   - *Výhody*: Rýchly prístup k prvkom pomocou indexovania, jednoduchá implementácia, efektívna pamäťová reprezentácia.
-  - *Nevýhody*: Statická veľkosť, nepružné rozšírenie, zložitosť vkladania a odstraňovania prvkov.
+  - *Nevýhody*: Statická veľkosť, nepružné rozšírenie.
 
 - **List**:
   - *Výhody*: Dynamická veľkosť, práca s metódami

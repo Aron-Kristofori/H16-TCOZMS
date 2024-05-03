@@ -26,3 +26,68 @@ share: "true"
    
 7. **Program - v metóde Main() spraviť z inej triedy volanie statickej a nestatickej metódy**
 
+```csharp
+// main.cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TCOZMS_OOP
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Trieda vec1 = new Trieda(20);
+            Trieda vec2 = new Trieda(30);
+            Console.WriteLine("Celkovo: " + Trieda.GetCelkovo());
+            Console.WriteLine("Pocet vec1: " + vec1.GetPocet());
+            Console.WriteLine("Pocet vec2: " + vec2.GetPocet());
+            Console.ReadKey();
+        }
+    }
+}
+
+// trieda.cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TCOZMS_OOP
+{
+    internal class Trieda
+    {
+        static int celkovo = 0;
+        int pocet;
+
+        public Trieda()
+        {
+            pocet = 0;
+        }
+
+        public Trieda(int poceet) {
+            this.pocet += poceet;
+            celkovo += this.pocet;
+        }
+
+        public static int GetCelkovo()
+        {
+            return celkovo;
+        }
+
+        public int GetPocet()
+        {
+            return this.pocet;
+        }
+
+        public void SetPocet(int pocet)
+        {
+            this.pocet = pocet;
+        }
+    }
+}
+```
